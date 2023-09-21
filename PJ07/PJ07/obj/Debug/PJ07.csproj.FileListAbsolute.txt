@@ -1,0 +1,11 @@
+C:\Users\aluno\source\repos\PJ07\PJ07\bin\Debug\PJ07.exe.config
+C:\Users\aluno\source\repos\PJ07\PJ07\bin\Debug\PJ07.exe
+C:\Users\aluno\source\repos\PJ07\PJ07\bin\Debug\PJ07.pdb
+C:\Users\aluno\source\repos\PJ07\PJ07\obj\Debug\PJ07.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\PJ07\PJ07\obj\Debug\PJ07.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\PJ07\PJ07\obj\Debug\PJ07.frmReais.resources
+C:\Users\aluno\source\repos\PJ07\PJ07\obj\Debug\PJ07.Properties.Resources.resources
+C:\Users\aluno\source\repos\PJ07\PJ07\obj\Debug\PJ07.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\PJ07\PJ07\obj\Debug\PJ07.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\PJ07\PJ07\obj\Debug\PJ07.exe
+C:\Users\aluno\source\repos\PJ07\PJ07\obj\Debug\PJ07.pdb
